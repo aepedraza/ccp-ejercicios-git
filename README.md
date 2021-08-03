@@ -2,4 +2,4 @@
 
 ## Introducción
 
-Este repositorio son ejercicios Git del Club de Chicas Programadoras
+Este repositorio son ejercicios Git del [Club de Chicas Programadoras](http://www.chicasprogramadoras.club/)
